@@ -1,1 +1,1 @@
-Speech Recognition + ChatGPT + Io Sockets in Node.js
+Speech Recognition + ChatGPT (Via Cerebral) + Io Sockets in Node.js
