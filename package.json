@@ -11,8 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@cerebras/cerebras_cloud_sdk": "^1.56.1",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
-    "openai": "^6.8.1",
     "socket.io": "^4.8.1"
   }
 }
